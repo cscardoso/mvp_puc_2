@@ -1,0 +1,32 @@
+original,normalized,mapped_to,method,score
+ALTITUDE,altitude,altitude,exact_norm,0.0
+CODIGO (WMO),codigo_wmo,codigo_wmo,exact_norm,0.0
+DATA DE FUNDAC?O,data_de_fundac_o,data_de_fundacao,fuzzy_norm,1.0
+DATA DE FUNDACAO,data_de_fundacao,data_de_fundacao,exact_norm,0.0
+DATA DE FUNDAÇÃO (YYYY-MM-DD),data_de_fundacao_yyyy_mm_dd,data_de_fundacao,fuzzy_norm,1.0
+Data,data,data,exact_norm,0.0
+ESTACAO,estacao,estacao,exact_norm,0.0
+HORA (UTC),hora_utc,hora_utc,exact_norm,0.0
+Hora UTC,hora_utc,hora_utc,exact_norm,0.0
+LATITUDE,latitude,latitude,exact_norm,0.0
+LONGITUDE,longitude,longitude,exact_norm,0.0
+"PRECIPITAÇÃO TOTAL, HORÁRIO (mm)",precipitacao_total_horario_mm,precipitacao_total_horario_mm,exact_norm,0.0
+"PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA (mB)",pressao_atmosferica_ao_nivel_da_estacao_horaria_mb,pressao_atmosferica_ao_nivel_da_estacao_horaria_mb,exact_norm,0.0
+PRESSÃO ATMOSFERICA MAX.NA HORA ANT. (AUT) (mB),pressao_atmosferica_max_na_hora_ant_aut_mb,pressao_atmosferica_max_na_hora_ant_aut_mb,exact_norm,0.0
+PRESSÃO ATMOSFERICA MIN. NA HORA ANT. (AUT) (mB),pressao_atmosferica_min_na_hora_ant_aut_mb,pressao_atmosferica_min_na_hora_ant_aut_mb,exact_norm,0.0
+RADIACAO GLOBAL (KJ/m²),radiacao_global_kj_m2,radiacao_global_kj_m2,exact_norm,0.0
+RADIACAO GLOBAL (Kj/m²),radiacao_global_kj_m2,radiacao_global_kj_m2,exact_norm,0.0
+REGIAO,regiao,regiao,exact_norm,0.0
+"TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)",temperatura_do_ar_bulbo_seco_horaria_c,temperatura_do_ar_bulbo_seco_horaria_degc,fuzzy_norm,1.0
+TEMPERATURA DO PONTO DE ORVALHO (°C),temperatura_do_ponto_de_orvalho_c,temperatura_do_ponto_de_orvalho_degc,fuzzy_norm,1.0
+TEMPERATURA MÁXIMA NA HORA ANT. (AUT) (°C),temperatura_maxima_na_hora_ant_aut_c,temperatura_maxima_na_hora_ant_aut_degc,fuzzy_norm,1.0
+TEMPERATURA MÍNIMA NA HORA ANT. (AUT) (°C),temperatura_minima_na_hora_ant_aut_c,temperatura_minima_na_hora_ant_aut_degc,fuzzy_norm,1.0
+TEMPERATURA ORVALHO MAX. NA HORA ANT. (AUT) (°C),temperatura_orvalho_max_na_hora_ant_aut_c,temperatura_orvalho_max_na_hora_ant_aut_degc,fuzzy_norm,1.0
+TEMPERATURA ORVALHO MIN. NA HORA ANT. (AUT) (°C),temperatura_orvalho_min_na_hora_ant_aut_c,temperatura_orvalho_min_na_hora_ant_aut_degc,fuzzy_norm,1.0
+UF,uf,uf,exact_norm,0.0
+UMIDADE REL. MAX. NA HORA ANT. (AUT) (%),umidade_rel_max_na_hora_ant_aut,umidade_rel_max_na_hora_ant_aut,exact_norm,0.0
+UMIDADE REL. MIN. NA HORA ANT. (AUT) (%),umidade_rel_min_na_hora_ant_aut,umidade_rel_min_na_hora_ant_aut,exact_norm,0.0
+"UMIDADE RELATIVA DO AR, HORARIA (%)",umidade_relativa_do_ar_horaria,umidade_relativa_do_ar_horaria,exact_norm,0.0
+"VENTO, DIREÇÃO HORARIA (gr) (° (gr))",vento_direcao_horaria_gr_gr,vento_direcao_horaria_gr_deg_gr,fuzzy_norm,1.0
+"VENTO, RAJADA MAXIMA (m/s)",vento_rajada_maxima_m_s,vento_rajada_maxima_m_s,exact_norm,0.0
+"VENTO, VELOCIDADE HORARIA (m/s)",vento_velocidade_horaria_m_s,vento_velocidade_horaria_m_s,exact_norm,0.0
