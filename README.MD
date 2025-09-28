@@ -19,8 +19,7 @@ Este trabalho apresenta um resumo do processo de treinamento de modelos utilizan
 
 ## Requisitos
 - Python 3.10 ou superior
-- Jupyter Notebook
-- Bibliotecas: pandas, numpy, matplotlib, sklearn, tensorflow (ou outras mencionadas no notebook)
+- Jupyter Notebook: numpy, pandas, matplotlib, scikit-learn, xgboost, tensorflow, keras (dentre outras mencionadas no notebook, sendo instaladas de forma automatica no ambiente do usuário caso necessário)
 
 ## Descrição do Problema
 O problema abordado neste Jupyter Notebook foi a previsão de precipitação horária na região Sudeste do Brasil utilizando dados meteorológicos históricos do INMET (2018-2024). 
