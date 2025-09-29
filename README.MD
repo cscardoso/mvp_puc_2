@@ -1,6 +1,8 @@
 # mvp_puc_2
 ## Descrição
 Este trabalho apresenta um resumo do processo de treinamento de modelos utilizando dados meteorológicos fornecidos pelo INMET, abrangendo o período de 2018 a 2024. O objetivo é demonstrar a preparação, análise e aplicação dos dados para o desenvolvimento de soluções preditivas, destacando a importância da qualidade dos dados, das técnicas de processamento e dos métodos de validação empregados. O estudo enfatiza o potencial dos dados históricos do INMET para aprimorar previsões e apoiar tomadas de decisão em diferentes contextos meteorológicos.
+### Observação
+Talvez a versão gratuita do COLAB não suporte a execução de todo o problema pela limitação de memória. Em alguns momentos podem ocorrer demandas acima de 20GB de RAM.
 
 ## Estrutura do Projeto
 

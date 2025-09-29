@@ -213,5 +213,9 @@ padronizados/*.csv
 padronizados_final/*.csv
 dados-metereologicos-2018-2024-inmet.zip
 
+
 # Modelos grandes
 modelo_random_forest_precipitacao.joblib
+
+#arquivo zip da plataforma
+mvp2.zip
